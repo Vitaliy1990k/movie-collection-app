@@ -1,0 +1,36 @@
+{
+  "Боевики": [
+    {
+      "name": "Рембо-2",
+      "path": ""
+    },
+    {
+      "name": "Рокки",
+      "path": ""
+    }
+  ],
+  "Фантастика": [
+    {
+      "name": "Гарри Поттер-1 (Философский камень)",
+      "path": "E:/films/Гарри Поттер/Harry.Potter.i.filosofskiy.kamenj.2001.mp4"
+    },
+    {
+      "name": "Гарри Поттер-2 (Тайная комната)",
+      "path": "E:/films/Гарри Поттер/Harry.Potter.i.taynaya.komnata.2002.mp4"
+    },
+    {
+      "name": "Гарри Поттер-3 (Узник Азкабана)",
+      "path": "E:/films/Гарри Поттер/Harry.Potter.i.uznik.azkabana.2004.mp4"
+    },
+    {
+      "name": "Гарри Поттер-4 (Кубок Огня)",
+      "path": "E:/films/Гарри Поттер/Harry.Potter.i.kubok.ognya.2005.mp4"
+    }
+  ],
+  "Комедии": [
+    {
+      "name": "Тупой и ещё тупее",
+      "path": ""
+    }
+  ]
+}
